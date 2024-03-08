@@ -9,12 +9,20 @@
       "createdAt": "2022-07-29T19:36:04.505Z"
     },
     {
-      "id": 1,
+      "id": 2,
       "description": "Haburguer",
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2022-07-29T19:20:00.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignete Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:22:00.505Z"
     }
   ]
 }
